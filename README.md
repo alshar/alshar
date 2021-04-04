@@ -4,7 +4,7 @@
 - 📫 How to reach me asharairi@gmail.com
 
 
-- 🙈 I wrote my two repos way before I knew what I was doing, there's some bad code in both of them. I write much better code now.
+- 🙈 I wrote my two public repos way before I knew what I was doing, there's some bad code in both of them. I write much better code now.
 
 <!---
 alshar/alshar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
